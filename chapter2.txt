@@ -1,0 +1,16 @@
+This is Chapter 2 of Git.
+
+
+git config --global user.name "Pavan Kalyan"
+git congig --global user.email "pothuripavan1619@gmail.com"
+
+// printing the commited changes
+git log
+
+
+// checking status
+git status
+
+
+// add files to track the commits
+git add (filename)
