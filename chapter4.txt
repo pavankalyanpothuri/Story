@@ -1,0 +1,17 @@
+Branching and merging in git
+
+Branching is a process where some other part is created and commits here doesnot effect the main branch. This created branch process can be worked simultaneosly along with the main branch.
+
+-->  Ti create a new branch,use
+git branch (branch_name)
+
+-->to check which branch we are currntly working on use 
+git branch     
+
+ this returns the all the branches and the branch with * sign is the current branch we are on
+
+--> Switching from one branch to other branch 
+git checkout (branch_name)
+
+this navigate to the branch we are given to it and if confused which branch you are on use    """   git branch   """  command....
+
